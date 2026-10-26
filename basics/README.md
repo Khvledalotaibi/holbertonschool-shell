@@ -12,3 +12,4 @@ The 9-firstdirdeletion script deletes /tmp/my_first_directory.
 The 10-back script changes the working directory to the previous directory.
 The 11-lists script lists the current directory, its parent, and /boot in long format, including hidden files.
 The 12-file_type script prints the file type of /tmp/iamafile.
+The 13-symbolic_link script creates a symbolic link named __ls__ to /bin/ls.
