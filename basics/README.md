@@ -14,3 +14,4 @@ The 11-lists script lists the current directory, its parent, and /boot in long f
 The 12-file_type script prints the file type of /tmp/iamafile.
 The 13-symbolic_link script creates a symbolic link named __ls__ to /bin/ls.
 The 14-copy_html script copies newer HTML files from the current directory to its parent.
+The 15-lets_move script moves files beginning with an uppercase letter into /tmp/u.
