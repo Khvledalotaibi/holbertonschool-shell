@@ -1,3 +1,3 @@
 # holbertonschool-shell
 
-This repository contains shell scripts for learning Linux permissions.
+This repository contains shell scripts for learning Linux commands.
