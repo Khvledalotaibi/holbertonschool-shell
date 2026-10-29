@@ -1,2 +1,2 @@
 # holbertonschool-shell
-Shell scripting exercises.
+Shell scripting exercises for learning Linux.
